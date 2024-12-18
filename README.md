@@ -1,7 +1,26 @@
 ### Hello World! 👋
 
+👨‍💻 Passionate Software Solution Architect & Designer | 🛠️ Cloud Strategist | 📐 IT Governance Advocate
+
 # 💫 About Me:
-🔭 I’m currently working on distributed systems<br>
+As an experienced C# Developer and software architect, I thrive on crafting elegant, efficient, and scalable solutions.
+My interests span across software design, distributed systems, and applying counterfactual reasoning to explore all possible designs.
+When I'm not coding, you'll find me diving into the realms of philosophy, quantum consciousness, and how they intersect with computational intelligence. 🧠✨
+
+## 🖥️ Key Expertise:
+
+Architectural Specialties: DDD, Cloud, Microservices, and Governance frameworks for enterprise-grade applications.
+Distributed Systems: Deep understanding of distributed systems and EAPs.
+
+🎨 Code Philosophy:
+I'm a profound supporter of Literate Coding, believing that code should not only work but also communicate.
+Just as a well-written book immerses its reader, great software should guide its audience—developers, architects, or stakeholders—through its logic and design with elegance and simplicity.
+The true artistry lies in making the complex accessible. 📖💻
+
+🌌 Beyond IT:
+I enjoy speculating on cosmic-scale problems, discussing ideas about intelligence, the universe, and the intersection of physics and psychology.
+
+🚀 "Code is poetry, architecture is its rhythm."
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giovannicostagliola) 
