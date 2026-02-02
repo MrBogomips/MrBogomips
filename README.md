@@ -36,6 +36,3 @@ I enjoy speculating on cosmic-scale problems, discussing ideas about intelligenc
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giovannicostagliola)
 
----
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mrbogomips&theme=radical&hide_border=true)
