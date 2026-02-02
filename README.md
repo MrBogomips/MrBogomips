@@ -38,4 +38,4 @@ I enjoy speculating on cosmic-scale problems, discussing ideas about intelligenc
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrbogomips&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=mrbogomips&theme=radical&hide_border=true)
