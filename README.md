@@ -26,7 +26,9 @@ I'm a profound supporter of **Literate Coding**, believing that code should not 
 
 **Architecture**: DDD | Event Sourcing | Clean Architecture | Microservices
 
-**Also working with**: TypeScript, Python, AWS, PostgreSQL, Docker
+**Also working with**: TypeScript, Python, Go, Rust, React, PostgreSQL, SQL Server, MongoDB, CosmosDB, Redis, RabbitMQ, AWS, Docker...
+
+**First love**: Amiga BASIC, C, Fortran, Pascal, Lisp, Assembly
 
 ## Beyond Code
 
