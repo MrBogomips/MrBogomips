@@ -1,40 +1,14 @@
-### Hello World! 👋
+Currently building the [Claude Code plugin marketplace](https://github.com/MrBogomips/claude-code) — agentic AI for software engineering pipelines — alongside the [Bogoware](https://github.com/bogoware) .NET libraries (Monads, Moneta, Localization). Architect by trade, builder by habit; partial to DDD, event sourcing, and design that survives production. Also on [LinkedIn](https://linkedin.com/in/giovannicostagliola).
 
-**Principal Software Architect** | 20+ years building enterprise systems
+### What I'm building
 
-## About Me
+- **[claude-code](https://github.com/MrBogomips/claude-code)** — Claude Code plugin marketplace for software engineering pipelines. Skills and agents for SOW writing and PMI-PERT estimation, devcontainer scaffolding, PlantUML policy/lint/migrate, and kaizen optimization loops.
+- **[bogoware/Monads](https://github.com/bogoware/Monads)** — Maybe & Result for C#. Multi-target (.NET Std 2.1 / 8 / 9 / 10), 327 unit tests, MIT.
+- **[bogoware/Moneta](https://github.com/bogoware/Moneta)** — Money math built on the *Monetary Value Conservation Principle* — rounding error tracked, never silently discarded.
+- **[bogoware/Localization](https://github.com/bogoware/Localization)** — FQDN-keyed localization for .NET with first-class DI.
 
-I design and develop enterprise applications with focus on design quality and long-term maintainability. I apply Domain-Driven Design, Event Sourcing, and Clean Architecture in complex contexts. When I'm not architecting systems, you'll find me diving into philosophy, quantum consciousness, and how they intersect with computational intelligence.
+### How I work
 
-## Current Focus
+DDD when the domain has real complexity. Event sourcing where auditability is non-negotiable. Architecture treated as governance, not gatekeeping. Hands-on with the code; partial to tools that encode taste rather than prose that describes it.
 
-- 🤖 **Agentic AI** integration for development workflows
-- 📖 **Documentation as Code** for product governance
-
-## Code Philosophy
-
-I'm a profound supporter of **Literate Coding**, believing that code should not only work but also communicate. Just as a well-written book immerses its reader, great software should guide its audience—developers, architects, or stakeholders—through its logic and design with elegance and simplicity. The true artistry lies in making the complex accessible.
-
-> 🚀 *"Code is poetry, architecture is its rhythm."*
-
-## Tech Stack
-
-**Primary**
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
-
-**Architecture**: DDD | Event Sourcing | Clean Architecture | Microservices
-
-**Also working with**: TypeScript, Python, Go, Rust, React, PostgreSQL, SQL Server, MongoDB, CosmosDB, Redis, RabbitMQ, AWS, Docker...
-
-**First love**: Amiga BASIC, C, Fortran, Pascal, Lisp, Assembly
-
-## Beyond Code
-
-I enjoy speculating on cosmic-scale problems, discussing ideas about intelligence, the universe, and the intersection of physics and psychology. 🧠✨
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giovannicostagliola)
-
+*[Bogoware org](https://github.com/bogoware) · [LinkedIn](https://linkedin.com/in/giovannicostagliola) · giovanni.costagliola@gmail.com*
