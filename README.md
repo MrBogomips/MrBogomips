@@ -1,4 +1,4 @@
-Currently building the [Claude Code plugin marketplace](https://github.com/MrBogomips/claude-code) — agentic AI for software engineering pipelines — alongside the [Bogoware](https://github.com/bogoware) .NET libraries (Monads, Moneta, Localization). Architect by trade, builder by habit; partial to DDD, event sourcing, and design that survives production. Also on [LinkedIn](https://linkedin.com/in/giovannicostagliola).
+Architect by trade, builder by habit; partial to DDD, event sourcing, and design that survives production. Also on [LinkedIn](https://linkedin.com/in/giovannicostagliola).
 
 ### What I'm building
 
