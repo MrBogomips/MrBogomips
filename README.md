@@ -4,7 +4,7 @@ Architect by trade, builder by habit; partial to DDD, event sourcing, and design
 
 - **[claude-code](https://github.com/MrBogomips/claude-code)** — Claude Code plugin marketplace for software engineering pipelines. Skills and agents for SOW writing and PMI-PERT estimation, devcontainer scaffolding, PlantUML policy/lint/migrate, and kaizen optimization loops.
 - **[bogoware/Monads](https://bogoware.github.io/Monads/)** — Maybe & Result for C#. Multi-target (.NET Std 2.1 / 8 / 9 / 10), 327 unit tests, MIT.
-- - **[bogoware/Localization](https://bogoware.github.io/Localization)** — FQDN-keyed localization for .NET with first-class DI.
+- **[bogoware/Localization](https://bogoware.github.io/Localization)** — FQDN-keyed localization for .NET with first-class DI.
 - **[bogoware/Moneta](https://github.com/bogoware/Moneta)** — Money math built on the *Monetary Value Conservation Principle* — rounding error tracked, never silently discarded.
 
 ### How I work
