@@ -9,6 +9,8 @@ Architect by trade, builder by habit; partial to DDD, event sourcing, and design
 - **[bogoware/Localization](https://bogoware.github.io/Localization)** — FQDN-keyed localization for .NET with first-class DI.
 - **[bogoware/Moneta](https://github.com/bogoware/Moneta)** — Money math built on the *Monetary Value Conservation Principle* — rounding error tracked, never silently discarded.
 
+**Latest: [zsh-claude-oneshot](https://github.com/MrBogomips/zsh-claude-oneshot)** — fire a Claude Code prompt as casually as you type `ls`. The model is the command and the prompt goes in raw: `opus commit local changes`, `sonnet edit README.md: add an install section, don't touch the license`, `git diff | haiku summarize for a changelog`. No session to open, no quoting to get right: apostrophes, `>` and `|` stay part of the prompt, and `haiku -n` plans the change before `haiku -c go ahead` makes it. Your CLAUDE.md, hooks and permission rules stay in force; the answer lands alone on stdout, ready for the next pipe, while live progress scrolls on stderr. Per-project defaults live in a `.zco.config`, a trivial prompt is back in about three seconds, and it installs with oh-my-zsh, antidote, zinit or zap. MIT.
+
 ### How I work
 
 DDD when the domain has real complexity. Event sourcing where auditability is non-negotiable. Architecture treated as governance, not gatekeeping. Hands-on with the code; partial to tools that encode taste rather than prose that describes it.
