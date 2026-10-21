@@ -1,18 +1,36 @@
-Architect by trade, builder by habit; partial to DDD, event sourcing, and design that survives production. Also on [LinkedIn](https://linkedin.com/in/giovannicostagliola).
+```csharp
+Maybe<Architect> trade = "by trade";
+Result<Builder>  habit = "by habit";
+// partial to: DDD, event sourcing, and design that survives production
+```
 
-### What I'm building in the OSS space
+### 🛠️ `git log --author=me` — the OSS side
 
-- **[agentic-harness](https://github.com/MrBogomips/agentic-harness)** — Claude Code plugin that stands up, assesses, and maintains a repo's agentic harness: generated project-specific agent teams and skills, an orchestrator that coordinates with the project's spec system and issue tracker, and a dual-tracker sync that keeps the SaaS tracker a projection of the repo-native source of truth.
-- **[claude-code](https://github.com/MrBogomips/claude-code)** — Claude Code plugin marketplace for software engineering pipelines. Skills and agents for SOW writing and PMI-PERT estimation, devcontainer scaffolding, PlantUML policy/lint/migrate, and kaizen optimization loops.
-- **[herdr-tools](https://github.com/MrBogomips/herdr-tools)** — Plugins for the [Herdr](https://herdr.dev) terminal multiplexer, for people who run many agents across many spaces: tabs named after their folder, spaces sorted and coloured per customer, and herdr-jump, a macOS picker and menu bar counter that queues the agents waiting for you, oldest first, one key away from any app. MIT.
-- **[kb-fx](https://github.com/MrBogomips/kb-fx)** — macOS CLI that turns any keyboard into an instrument: a synthesized tone per keystroke (melodies importable from MIDI), plus backlight colors on VIA-compatible boards over raw HID. Listen-only event tap, sound-only degradation when no lights-capable board is attached, MIT.
-- **[zsh-claude-oneshot](https://github.com/MrBogomips/zsh-claude-oneshot)** — One-shot Claude Code prompts from zsh: the model is the command and the prompt needs no quotes (`opus commit local changes`, `git diff | haiku summarize`). MIT.
-- **[bogoware/Monads](https://bogoware.github.io/Monads/)** — Maybe & Result for C#. Multi-target (.NET Std 2.1 / 8 / 9 / 10), 327 unit tests, MIT.
-- **[bogoware/Localization](https://bogoware.github.io/Localization)** — FQDN-keyed localization for .NET with first-class DI.
-- **[bogoware/Moneta](https://github.com/bogoware/Moneta)** — Money math built on the *Monetary Value Conservation Principle* — rounding error tracked, never silently discarded.
+**🐑 Herding coding agents**
 
-### How I work
+- 🧰 **[agentic-harness](https://github.com/MrBogomips/agentic-harness)** — Claude Code plugin that stands up, assesses and maintains a repo's agentic harness: project-specific agent teams and skills, an orchestrator that talks to your spec system and issue tracker, and a dual-tracker sync where the SaaS tracker is just a projection of the repo's source of truth.
+- 🛒 **[claude-code](https://github.com/MrBogomips/claude-code)** — Claude Code plugin marketplace for software engineering pipelines: SOWs and PMI-PERT estimates, devcontainer scaffolding, PlantUML policy/lint/migrate, kaizen loops.
+- 🐑 **[herdr-tools](https://github.com/MrBogomips/herdr-tools)** — [Herdr](https://herdr.dev) plugins for people with more agents than tabs: tabs named after their folder, spaces sorted and coloured per customer, and herdr-jump, a macOS picker that queues the agents waiting for you, FIFO, one key away from any app. MIT.
+- ⚡ **[zsh-claude-oneshot](https://github.com/MrBogomips/zsh-claude-oneshot)** — The model is the command, quotes are optional: `opus commit local changes`, `git diff | haiku summarize`. One-shot Claude Code prompts from zsh. MIT.
 
-DDD when the domain has real complexity. Event sourcing where auditability is non-negotiable. Architecture treated as governance, not gatekeeping. Hands-on with the code; partial to tools that encode taste rather than prose that describes it.
+**🎹 Making noise**
 
-*[Bogoware org](https://github.com/bogoware) · [LinkedIn](https://linkedin.com/in/giovannicostagliola) · giovanni.costagliola@gmail.com*
+- 🎹 **[kb-fx](https://github.com/MrBogomips/kb-fx)** — Your keyboard, now an instrument: a synthesized tone per keystroke (melodies imported from MIDI) and backlight colors on VIA-compatible boards over raw HID. Listen-only event tap; no lights-capable board, just sound. macOS CLI, MIT.
+
+**🧮 .NET, the functional way**
+
+- 🧩 **[bogoware/Monads](https://bogoware.github.io/Monads/)** — `Maybe` & `Result` for C#, because `null` was a billion-dollar mistake. Multi-target (.NET Std 2.1 / 8 / 9 / 10), 327 unit tests, MIT.
+- 🌍 **[bogoware/Localization](https://bogoware.github.io/Localization)** — FQDN-keyed localization for .NET with first-class DI: every string has an address.
+- 💶 **[bogoware/Moneta](https://github.com/bogoware/Moneta)** — Money math under the *Monetary Value Conservation Principle*: rounding error is tracked, never silently discarded. No cent left behind.
+
+### ⚙️ Runtime config
+
+```yaml
+ddd: when the domain has real complexity
+event_sourcing: where auditability is non-negotiable
+architecture: governance, not gatekeeping
+hands_on: true
+prefer: tools that encode taste > prose that describes it
+```
+
+*📡 [Bogoware org](https://github.com/bogoware) · [LinkedIn](https://linkedin.com/in/giovannicostagliola) · giovanni.costagliola@gmail.com*
