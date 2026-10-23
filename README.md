@@ -10,7 +10,7 @@ Result<Builder>  habit = "by habit";
 
 - 🧰 **[agentic-harness](https://github.com/MrBogomips/agentic-harness)** — Claude Code plugin that stands up, assesses and maintains a repo's agentic harness: project-specific agent teams and skills, an orchestrator that talks to your spec system and issue tracker, and a dual-tracker sync where the SaaS tracker is just a projection of the repo's source of truth.
 - 🛒 **[claude-code](https://github.com/MrBogomips/claude-code)** — Claude Code plugin marketplace for software engineering pipelines: SOWs and PMI-PERT estimates, devcontainer scaffolding, PlantUML policy/lint/migrate, kaizen loops.
-- 🐑 **[herdr-tools](https://github.com/MrBogomips/herdr-tools)** — [Herdr](https://herdr.dev) plugins for people with more agents than tabs: tabs named after their folder, spaces sorted and coloured per customer, and herdr-jump, a macOS picker that queues the agents waiting for you, FIFO, one key away from any app. MIT.
+- 🐑 **[herdr-tools](https://mrbogomips.github.io/herdr-tools/)** — [Herdr](https://herdr.dev) plugins for people with more agents than tabs: tabs named after their folder, spaces sorted and coloured per customer, and herdr-jump, a macOS picker that queues the agents waiting for you, FIFO, one key away from any app. MIT.
 - ⚡ **[zsh-claude-oneshot](https://github.com/MrBogomips/zsh-claude-oneshot)** — The model is the command, quotes are optional: `opus commit local changes`, `git diff | haiku summarize`. One-shot Claude Code prompts from zsh. MIT.
 
 **🎹 Making noise**
